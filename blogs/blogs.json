@@ -2,22 +2,21 @@
   "repo": "e-peas",
   "feeds": [
     {
-      "source": "https://e-peas.com/support/",
-      "feed_url": "https://e-peas.com/feed/",
+      "source": "https://e-peas.com/newsroom",
+      "feed_url": "https://e-peas.com/newsroom",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "none"
     },
     {
       "source": "https://e-peas.com/feed/",
       "feed_url": "https://e-peas.com/feed/",
-      "title": "",
       "saved": 0,
-      "method": "feed"
+      "error": "no_feed_no_posts"
     }
   ],
   "post_count": 14,
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
